@@ -115,11 +115,7 @@ Inspired by the need to automate content generation using autonomous AI agents t
 
 ---
 
-## 📜 License
 
-MIT License
-
----
 
 > Built with ❤️ for experimenting with AI agent collaboration and content generation.
 
