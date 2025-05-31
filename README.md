@@ -26,8 +26,8 @@ A simple Flask-based multi-agent system using [CrewAI](https://github.com/joaomd
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/crew-ai-flask-starter.git
-cd crew-ai-flask-starter
+git clone [https://github.com/harshit-2410/Blogger-AI]
+cd Blogger-AI
 ````
 
 ### 2. Create a Virtual Environment
