@@ -95,8 +95,8 @@ Returns the blog post as HTML rendered in the browser.
 
 ## 🤖 Agents
 
-* **Researcher** – Expert in gathering detailed information about a topic.
-* **Summarizer** – Specializes in converting complex content into digestible summaries.
+* **Planner** – Expert in gathering detailed information about a topic.
+* **Writer** – Specializes in converting complex content into digestible summaries.
 
 ---
 
@@ -123,12 +123,4 @@ MIT License
 
 > Built with ❤️ for experimenting with AI agent collaboration and content generation.
 
-```
-
----
-
-Let me know if you'd like me to:
-- Add example screenshots
-- Include Docker support
-- Generate deployment instructions for platforms like Heroku or Railway
 ```
